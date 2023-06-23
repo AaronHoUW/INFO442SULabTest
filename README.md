@@ -1,6 +1,6 @@
 # INFO442SULabTest
 
 <!-- Added Header -->
-## Insert header here
+## Hello
 
-Adding a new note - Branch2
+Testing note - Jasmine Mae
